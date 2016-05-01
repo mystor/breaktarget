@@ -1,0 +1,9 @@
+[package]
+name = "breaktarget"
+version = "0.1.0"
+authors = ["Michael Layzell <michael@thelayzells.com>"]
+description = "Implementation of nonlocal breaks in Rust"
+repository = "https://github.com/mystor/breaktarget"
+readme = "README.md"
+keywords = ["breaktarget", "nonlocal", "panic", "setjmp", "longjmp"]
+license = "MIT"
