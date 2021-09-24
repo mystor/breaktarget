@@ -1,7 +1,7 @@
 [package]
 name = "breaktarget"
 version = "0.1.0"
-authors = ["Michael Layzell <michael@thelayzells.com>"]
+authors = ["Nika Layzell <nika@thelayzells.com>"]
 description = "Implementation of nonlocal breaks in Rust"
 repository = "https://github.com/mystor/breaktarget"
 readme = "README.md"
